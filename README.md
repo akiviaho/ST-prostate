@@ -35,13 +35,15 @@ Files related to ST data analysis
 
 - **spatial-gene-expression-analysis.ipynb** – Gene expression analysis and plots of spatial transcriptomics data. (Figures 1c, 2d)
 
-- **spatial-gene-set-score-analysis.ipynb** – Gene set scoring-based plotting (Figures 3a, 3b, 3c, 4a, 4b, 4c, 4h).
+- **spatial-gene-set-score-analysis.ipynb** – Gene set scoring-based plotting (Figures 3a, 3b, 3c, 4a, 4b, 4c, 4d).
 
 - **spatial-dotplot-ar-basal-club-markers.py** – Plot 2c generation.
 
 - **spatial-dotplot-chemokine-expression.py** – Plot 3d generation.
 
-- **spatial-mapping-based-clusters-receptor-ligand-analyses.ipynb** – Ligand-receptor interaction analysis-based plotting (Figures 4e, 4f, 4g).
+- **multiplex_ihc_staining_analysis.ipynb** – Plots from mIHC cell classifier results (Figures 4h, 4i)
+
+- **spatial-mapping-based-clusters-receptor-ligand-analyses.ipynb** – Ligand-receptor interaction analysis-based plotting (Supplementary Figure 8).
 
 - **spatial-metastatic-tumor-sample-analysis.ipynb.ipynb** – Analysis of metastatic prostate cancer spatial transcriptomics samples (Figures 5d, 5e).
 

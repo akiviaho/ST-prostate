@@ -5,9 +5,9 @@
 
 **Email:** antti.kiviaho@tuni.fi
 
-**Last modified:** 30.7.2024
+**Last modified:** 1.10.2024
 
-This repository contains necessary code to reproduce results in Kiviaho et al. 2024.
+This repository contains necessary code to reproduce results presented in the manuscript.
 
 ### Package versions:
 - **single_cell_analysis_environment.yml** – Containts package versions used in the analysis of spatial transcriptomics data.

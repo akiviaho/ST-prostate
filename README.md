@@ -1,11 +1,12 @@
-### Club-like cells persist throughout treatment and interact with immunosuppressive myeloid cells in the prostate tumor microenvironment
+### Single cell and spatial transcriptomics highlight the interaction of club-like cells with immunosuppressive myeloid cells in prostate cancer
 
+[Link to the study](https://doi.org/10.1038/s41467-024-54364-1)
 
 **Author:** Antti Kiviaho
 
 **Email:** antti.kiviaho@tuni.fi
 
-**Last modified:** 1.10.2024
+**Last modified:** 29.11.2024
 
 This repository contains necessary code to reproduce results presented in the manuscript.
 
